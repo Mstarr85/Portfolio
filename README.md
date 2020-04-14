@@ -2,6 +2,8 @@
 
 <img width="1440" alt="Screen Shot 2020-04-14 at 8 42 17 AM" src="https://user-images.githubusercontent.com/53281244/79226344-3d47d500-7e2c-11ea-81dd-4abd189d7362.png">
 
+<img width="1440" alt="Screen Shot 2020-04-14 at 8 42 21 AM" src="https://user-images.githubusercontent.com/53281244/79226488-77b17200-7e2c-11ea-89bf-bcb0436268f3.png">
+
 # Portfolio
 
 Getting Started
