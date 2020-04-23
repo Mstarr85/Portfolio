@@ -6,12 +6,32 @@
 
 # Portfolio
 
-Getting Started
--Start on the About page and click  on Portfolio  which will direct you to a gallery of work 
--Click on Contact to send you Contact information
+## Description
 
-About
--This was created to showcase a portfolio 
+ * This was created to showcase knowledge of building a Portfolio 
+
+## Installation Instructions
+
+ * Clone Repo to your local machine
+ 
+ * Open HTML file with default browser 
+ 
+                or
+                
+ * Click on the Github Deployed Link below
+ 
+## How It Works
+
+ * Start on the About page and click  on Portfolio which will direct you to a gallery of work 
+ 
+ * Click on Contact to send you Contact information
+ 
+## Github Repo Link
+
+
+## Github Deployed Link
+
+
 
 Built With
 -The project was built with VScode
