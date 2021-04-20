@@ -32,7 +32,7 @@ footer{
     width: 100%;
     color: white;
     height: 60px;
-    padding-top: 10x;
+    padding-top: 10px;
 }
 #Copyright{
     position: absolute;
@@ -92,7 +92,6 @@ ul {
       padding-bottom: 10%;
       margin: 2%;
       background-color: white;
-      float: center;
       width: 800px;
     }
     #card2
@@ -102,7 +101,6 @@ ul {
         padding-bottom: 10%;
         margin: 2%;
         background-color: white;
-        float: center;
         width: 800px;
         margin-left: 220px;
     }
